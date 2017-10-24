@@ -52,8 +52,7 @@ public class Main {
 
 			if (!exists) {
 				// On met dans le fichier la première l'entête des colonnes
-				Files.append("\"date\";\"horaire\";\"team_home\";\"team_away\";\"score\";\"cote1\";\"coteN\";\"cote2\"",
-						file, ISO_8859_1);
+				Files.append("date,horaire,team_home,team_away,score,cote1,coteN,cote2", file, ISO_8859_1);
 				Files.append("\n", file, ISO_8859_1);
 			}
 
@@ -68,10 +67,8 @@ public class Main {
 				String coteN = getString(match.getElementsByClass("cell_ob").first().text());
 				String cote2 = getString(match.getElementsByClass("cell_oc").first().text());
 
-				Files.append(
-						String.format("\"%s\";\"%s\";\"%s\";\"%s\";\"%s\";\"%s\";\"%s\";\"%s\"",
-								DateUtil.getYesterday(), heure, domicile, visiteur, score, cote1, coteN, cote2),
-						file, ISO_8859_1);
+				Files.append(String.format("%s,%s,%s,%s,%s,%s,%s,%s", DateUtil.getYesterday(), heure, domicile,
+						visiteur, score, cote1, coteN, cote2), file, ISO_8859_1);
 				Files.append("\n", file, ISO_8859_1);
 			}
 		}
