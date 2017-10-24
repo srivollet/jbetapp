@@ -1,0 +1,3471 @@
+<html>
+ <head></head>
+ <body>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_zZpeJHDG primary-top">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_zZpeJHDG" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_98 left-odds" title="Italie"></span><span class="name"><span class="country_part">ITALIE: </span><span class="tournament_part">Série A</span></span></span><span class="toggleMyLeague active 1_98_COuk57Ci" title="Enlever cette ligue de Mes ligues!" data-label-key="1_98_COuk57Ci" onclick="cjs.myLeagues.toggleTop('1_98_COuk57Ci', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_lpybQ4ad" class="tr-first stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Inter</span></td>
+     <td class="cell_ac team-away "><span class="padl">Sampdoria</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.35[u]1.40">1.40</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="4.50[d]4.30">4.30</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="7.75[d]6.75">6.75</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_YPU6Nwg9 ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_YPU6Nwg9" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_18 left-odds" title="Algérie"></span><span class="name"><span class="country_part">ALGÉRIE: </span><span class="tournament_part">Ligue 1</span></span></span><span class="toggleMyLeague 1_18_zLQAGOBK" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_18_zLQAGOBK" onclick="cjs.myLeagues.toggleTop('1_18_zLQAGOBK', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_nJVeMOP5" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">USM Alger</span></td>
+     <td class="cell_ac team-away "><span class="padl">Harrach</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="">1.62</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.75[u]2.85">2.85</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="4.90[d]4.70">4.70</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_rXawJi8t ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_rXawJi8t" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_81 left-odds" title="Allemagne"></span><span class="name"><span class="country_part">ALLEMAGNE: </span><span class="tournament_part">Coupe d'Allemagne - DFB Pokal</span></span></span><span class="toggleMyLeague 1_81_MNEDyOlF" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_81_MNEDyOlF" onclick="cjs.myLeagues.toggleTop('1_81_MNEDyOlF', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_SApHw9Lg" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:30</td>
+     <td class="cell_ab team-home "><span class="padl">Dusseldorf</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Monchengladbach<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="">3.40</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.10[u]3.50">3.50</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="1.80[u]1.88">1.88</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_fw4QZQKI" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Leverkusen<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Union Berlin<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">4&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="down" alt="1.40[d]1.23">1.23</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.80[u]5.50">5.50</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="5.25[u]8.75">8.75</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_6ed8uVjs" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Paderborn<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Bochum<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="up" alt="2.40[u]2.60">2.60</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.05[u]3.25">3.25</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="2.35[u]2.40">2.40</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_pneCvk6m" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:30</td>
+     <td class="cell_ab team-home "><span class="padl">Wehen</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Schalke 04<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="">5.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.70[u]3.75">3.75</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="1.42[u]1.52">1.52</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Esyijn5a" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Furth</span></td>
+     <td class="cell_ac team-away "><span class="padl">Ingolstadt</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.60[u]3.30">3.30</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.95[u]3.20">3.20</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="2.25[d]2.00">2.00</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_zylPymj6" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Magdeburg</span></td>
+     <td class="cell_ac team-away "><span class="padl">Dortmund</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="">8.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="4.80[u]5.00">5.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="1.19[u]1.27">1.27</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_tElLxTz0" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Mainz</span></td>
+     <td class="cell_ac team-away "><span class="padl">Kiel</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.48[u]2.05">2.05</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="3.40[d]3.30">3.30</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="4.90[d]3.10">3.10</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_ERnTz75C" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Schweinfurt</span></td>
+     <td class="cell_ac team-away "><span class="padl">Frankfurt</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="7.50[u]9.75">9.75</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="4.60[u]5.50">5.50</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="">1.22</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_0087O9We ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_0087O9We" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">League One</span></span></span><span class="toggleMyLeague 1_198_rJSMG3H0" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_rJSMG3H0" onclick="cjs.myLeagues.toggleTop('1_198_rJSMG3H0', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_I1p1yjSf" class="tr-first stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Oldham</span></td>
+     <td class="cell_ac team-away "><span class="padl">Bury</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_ULZOoigF ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_ULZOoigF" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">Vanarama National League</span></span></span><span class="toggleMyLeague 1_198_4CWHXGM1" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_4CWHXGM1" onclick="cjs.myLeagues.toggleTop('1_198_4CWHXGM1', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_AuwAVRHD" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Aldershot</span></td>
+     <td class="cell_ac team-away "><span class="padl">Sutton</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_ED3jvKLD" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Bromley</span></td>
+     <td class="cell_ac team-away "><span class="padl">Maidenhead</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_QkWJMijt" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Chester</span></td>
+     <td class="cell_ac team-away "><span class="padl">Barrow</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_KCVNLB5n" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Dagenham &amp; Red.</span></td>
+     <td class="cell_ac team-away "><span class="padl">Macclesfield</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_b3URKVKh" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Dover</span></td>
+     <td class="cell_ac team-away "><span class="padl">Woking</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_vFoPJkza" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Eastleigh</span></td>
+     <td class="cell_ac team-away "><span class="padl">Solihull</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_I5pTI9k5" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Ebbsfleet</span></td>
+     <td class="cell_ac team-away "><span class="padl">Torquay</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_6sRBOmuA" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Fylde</span></td>
+     <td class="cell_ac team-away "><span class="padl">Wrexham</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_QVmyHmKH" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Guiseley</span></td>
+     <td class="cell_ac team-away "><span class="padl">Boreham Wood</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_CSqXHT4B" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Halifax</span></td>
+     <td class="cell_ac team-away "><span class="padl">Maidstone</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_8fwtG7ZN" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Hartlepool</span></td>
+     <td class="cell_ac team-away "><span class="padl">Tranmere</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_noxpFRlU" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Leyton Orient</span></td>
+     <td class="cell_ac team-away "><span class="padl">Gateshead</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_6eWax21B ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_6eWax21B" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">Vanarama National League - Nord</span></span></span><span class="toggleMyLeague 1_198_rsMtLd7e" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_rsMtLd7e" onclick="cjs.myLeagues.toggleTop('1_198_rsMtLd7e', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_8hEssXCk" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Gainsborough</span></td>
+     <td class="cell_ac team-away "><span class="padl">Telford</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_GIDotiSe" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Harrogate</span></td>
+     <td class="cell_ac team-away "><span class="padl">Bradford PA</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_QqqYJgop ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_QqqYJgop" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">Vanarama National League - Sud</span></span></span><span class="toggleMyLeague 1_198_QPXiMdx8" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_QPXiMdx8" onclick="cjs.myLeagues.toggleTop('1_198_QPXiMdx8', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_QoxSQeeQ" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Bath City</span></td>
+     <td class="cell_ac team-away "><span class="padl">Dartford</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_OtKEHiIC" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Hampton &amp; Richmond</span></td>
+     <td class="cell_ac team-away "><span class="padl">St. Albans</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_lbvjABFe ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_lbvjABFe" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">Carabao Cup</span></span></span><span class="toggleMyLeague 1_198_OMT80ou8" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_OMT80ou8" onclick="cjs.myLeagues.toggleTop('1_198_OMT80ou8', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_UDaHxhVh" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Arsenal</span></td>
+     <td class="cell_ac team-away "><span class="padl">Norwich</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.15[u]1.30">1.30</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="5.50[d]4.80">4.80</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="11.00[d]7.50">7.50</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_OzaLyCpa" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Bournemouth</span></td>
+     <td class="cell_ac team-away "><span class="padl">Middlesbrough</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.62[u]1.72">1.72</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">3.40</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="4.40[d]4.25">4.25</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_2RcPzWa5" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Bristol City</span></td>
+     <td class="cell_ac team-away "><span class="padl">Crystal Palace</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.40[u]2.50">2.50</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">3.05</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="2.55[u]2.60">2.60</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_bgiYY9UH" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Leicester</span></td>
+     <td class="cell_ac team-away "><span class="padl">Leeds</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="">1.45</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.70[u]4.00">4.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="5.50[u]5.75">5.75</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_6JftXmaU" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Swansea</span></td>
+     <td class="cell_ac team-away "><span class="padl">Manchester Utd</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="6.00[d]5.25">5.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">3.70</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="1.42[u]1.55">1.55</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_hGjxYTqO" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">21:00</td>
+     <td class="cell_ab team-home "><span class="padl">Manchester City</span></td>
+     <td class="cell_ac team-away "><span class="padl">Wolves</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="1.10[d]1.08">1.08</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="6.75[u]8.25">8.25</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="12.00[u]17.00">17.00</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_MwHbKtuI ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_MwHbKtuI" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">Premier League International Cup</span></span></span><span class="toggleMyLeague 1_198_M3uIuJSh" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_M3uIuJSh" onclick="cjs.myLeagues.toggleTop('1_198_M3uIuJSh', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_S26apJZG" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">20:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Newcastle -23</span></td>
+     <td class="cell_ac team-away "><span class="padl">Sparta Prague -21</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_0vakgqUt ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_0vakgqUt" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_198 left-odds" title="Angleterre"></span><span class="name"><span class="country_part">ANGLETERRE: </span><span class="tournament_part">Checkatrade Trophy</span></span></span><span class="toggleMyLeague 1_198_4STIHq2f" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_198_4STIHq2f" onclick="cjs.myLeagues.toggleTop('1_198_4STIHq2f', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_8rRPFWNk" class="tr-first stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Bradford</span></td>
+     <td class="cell_ac team-away "><span class="padl">Manchester City -23</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_j30TZiFL" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Lincoln City</span></td>
+     <td class="cell_ac team-away "><span class="padl">Everton -23</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_CC1PzYaF" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Notts County</span></td>
+     <td class="cell_ac team-away "><span class="padl">Mansfield</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_8pSTcb24" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Wigan</span></td>
+     <td class="cell_ac team-away "><span class="padl">Middlesbrough -23</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_jwXXHrwD ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_jwXXHrwD" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_22 left-odds" title="Argentine"></span><span class="name"><span class="country_part">ARGENTINE: </span><span class="tournament_part">Championnat Métropolitain B</span></span></span><span class="toggleMyLeague 1_22_GKJrZE7I" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_22_GKJrZE7I" onclick="cjs.myLeagues.toggleTop('1_22_GKJrZE7I', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_rkqKZhwl" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">20:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Atletico Atlanta</span></td>
+     <td class="cell_ac team-away "><span class="padl">Platense</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_jm0p2dZG ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_jm0p2dZG" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_22 left-odds" title="Argentine"></span><span class="name"><span class="country_part">ARGENTINE: </span><span class="tournament_part">Copa Argentina</span></span></span><span class="toggleMyLeague 1_22_OWsjCTcG" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_22_OWsjCTcG" onclick="cjs.myLeagues.toggleTop('1_22_OWsjCTcG', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_8nyBVXlM" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">02:10</td>
+     <td class="cell_ab team-home "><span class="padl">Olimpo</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Deportivo Moron<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_zFxc7aEB ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_zFxc7aEB" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_5 left-odds" title="Asie"></span><span class="name"><span class="country_part">ASIE: </span><span class="tournament_part">Championnat AFC U19 - Qualification</span></span></span><span class="toggleMyLeague 1_5_QN0gwBSC" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_5_QN0gwBSC" onclick="cjs.myLeagues.toggleTop('1_5_QN0gwBSC', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_riOYZckR" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">10:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Birmanie -19</span></td>
+     <td class="cell_ac team-away "><span class="padl">Philippines -19</span></td>
+     <td class="cell_sa score  bold ">6&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_40PUzvzL" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Chine -19</span></td>
+     <td class="cell_ac team-away "><span class="padl">Cambodge -19</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_n77vlPLl ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_n77vlPLl" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_24 left-odds" title="Australie"></span><span class="name"><span class="country_part">AUSTRALIE: </span><span class="tournament_part">FFA Cup</span></span></span><span class="toggleMyLeague 1_24_C8jTVoo9" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_24_C8jTVoo9" onclick="cjs.myLeagues.toggleTop('1_24_C8jTVoo9', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_lhDPOeWT" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">10:30</td>
+     <td class="cell_ab team-home "><span class="padl">WS Wanderers</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Adelaide United<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_2yF3o4Ve ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_2yF3o4Ve" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_25 left-odds" title="Autriche"></span><span class="name"><span class="country_part">AUTRICHE: </span><span class="tournament_part">Régional - Est</span></span></span><span class="toggleMyLeague 1_25_A5eaUTiq" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_25_A5eaUTiq" onclick="cjs.myLeagues.toggleTop('1_25_A5eaUTiq', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_ObPBX9q4" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home "><span class="padl">Austria (Am)</span></td>
+     <td class="cell_ac team-away "><span class="padl">Rapid Vienne (Am)</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_6NEGWTbA" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:30</td>
+     <td class="cell_ab team-home "><span class="padl">Amstetten</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Mannsdorf</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_KQIKVmEG" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Ebreichsdorf</span></td>
+     <td class="cell_ac team-away "><span class="padl">Karabakh Vienna</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_CdTwgqVI ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_CdTwgqVI" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_25 left-odds" title="Autriche"></span><span class="name"><span class="country_part">AUTRICHE: </span><span class="tournament_part">OFB Cup</span></span></span><span class="toggleMyLeague 1_25_8nQ2VTTL" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_25_8nQ2VTTL" onclick="cjs.myLeagues.toggleTop('1_25_8nQ2VTTL', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_4xsoDKEg" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:00</td>
+     <td class="cell_ab team-home "><span class="padl">Asko Oedt</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Mattersburg<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_MDitE0am" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home "><span class="padl">Florian</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Hartberg<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;4</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_jgqcAIbC" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:12</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Ried<span class="racard racard1">&nbsp;</span><span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">LASK Linz<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">4&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_42KEihg2 ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_42KEihg2" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_32 left-odds" title="Belgique"></span><span class="name"><span class="country_part">BELGIQUE: </span><span class="tournament_part">Jupiler Pro League</span></span></span><span class="toggleMyLeague 1_32_dG2SqPrf" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_32_dG2SqPrf" onclick="cjs.myLeagues.toggleTop('1_32_dG2SqPrf', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_WvaoXehi" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">La Gantoise</span></td>
+     <td class="cell_ac team-away "><span class="padl">Eupen</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.27[u]1.28">1.28</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="4.25[d]4.10">4.10</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="">6.75</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_Ie1cUgxA" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Malines</span></td>
+     <td class="cell_ac team-away "><span class="padl">Lokeren</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="1.90[d]1.75">1.75</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.05[u]3.30">3.30</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="3.15[u]3.40">3.40</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_v52gVZM3" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Ostende</span></td>
+     <td class="cell_ac team-away "><span class="padl">Charleroi</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.95[u]2.25">2.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="3.05[d]3.00">3.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="3.00[d]2.55">2.55</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_GEXzJWuC ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_GEXzJWuC" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_36 left-odds" title="Bolivie"></span><span class="name"><span class="country_part">BOLIVIE: </span><span class="tournament_part">Liga de Futbol Prof - Clôture</span></span></span><span class="toggleMyLeague 1_36_2Lmb6qrJ" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_36_2Lmb6qrJ" onclick="cjs.myLeagues.toggleTop('1_36_2Lmb6qrJ', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_dbxqobH3" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">02:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Blooming</span></td>
+     <td class="cell_ac team-away "><span class="padl">Nacional Potosi</span></td>
+     <td class="cell_sa score  bold ">4&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_QZwwOWNB ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_QZwwOWNB" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_39 left-odds" title="Brésil"></span><span class="name"><span class="country_part">BRÉSIL: </span><span class="tournament_part">Serie A</span></span></span><span class="toggleMyLeague 1_39_Yq4hUnzQ" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_39_Yq4hUnzQ" onclick="cjs.myLeagues.toggleTop('1_39_Yq4hUnzQ', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_EB6GHhIk" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">00:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Botafogo RJ</span></td>
+     <td class="cell_ac team-away "><span class="padl">Corinthians</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="up" alt="2.20[u]2.40">2.40</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="2.75[d]2.65">2.65</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="2.75[d]2.60">2.60</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_vwrsNjwI ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_vwrsNjwI" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_39 left-odds" title="Brésil"></span><span class="name"><span class="country_part">BRÉSIL: </span><span class="tournament_part">Serie B</span></span></span><span class="toggleMyLeague 1_39_vRtLP6rs" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_39_vRtLP6rs" onclick="cjs.myLeagues.toggleTop('1_39_vRtLP6rs', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_Sj0IEWCU" class="tr-first stage-scheduled">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">23:15</td>
+     <td class="cell_ab team-home "><span class="padl">Juventude</span></td>
+     <td class="cell_ac team-away "><span class="padl">Nautico</span></td>
+     <td class="cell_sa score ">-</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_OITit0Rh ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_OITit0Rh" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_41 left-odds" title="Bulgarie"></span><span class="name"><span class="country_part">BULGARIE: </span><span class="tournament_part">Coupe de Bulgarie</span></span></span><span class="toggleMyLeague 1_41_xWXDs8Sn" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_41_xWXDs8Sn" onclick="cjs.myLeagues.toggleTop('1_41_xWXDs8Sn', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_lCJVDjVP" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home "><span class="padl">Tsarsko Selo</span></td>
+     <td class="cell_ac team-away "><span class="padl">Botev Plovdiv<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;4<br><span class="aet">(2&nbsp;:&nbsp;2)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_t4Bc9Aws" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Litex Lovech<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Lok. Sofia</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_2Ja67l8g" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">CSKA Sofia<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Botev Vratsa<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Eg3A68Na" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Dunav Ruse<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Strumska Slava</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_llsLzE0t ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_llsLzE0t" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_61 left-odds" title="Chypre"></span><span class="name"><span class="country_part">CHYPRE: </span><span class="tournament_part">Première Division</span></span></span><span class="toggleMyLeague 1_61_EmZxlqvh" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_61_EmZxlqvh" onclick="cjs.myLeagues.toggleTop('1_61_EmZxlqvh', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_GvBTtc3l" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:00</td>
+     <td class="cell_ab team-home "><span class="padl">Doxa</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">AEK Larnaca</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="4.80[d]3.50">3.50</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="3.50[d]3.15">3.15</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="1.45[u]1.72">1.72</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_QkYf1Rl3" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home "><span class="padl">Nea Salamis</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Omonia</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="4.80[d]4.60">4.60</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">3.60</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="">1.45</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_8j30hATe ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_8j30hATe" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_53 left-odds" title="Colombie"></span><span class="name"><span class="country_part">COLOMBIE: </span><span class="tournament_part">Torneo Aguila - Clôture</span></span></span><span class="toggleMyLeague 1_53_4dzRa7y9" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_53_4dzRa7y9" onclick="cjs.myLeagues.toggleTop('1_53_4dzRa7y9', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_CtPmcNwb" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">02:45</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Pereira</span></td>
+     <td class="cell_ac team-away "><span class="padl">Chico</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_6DojVhip ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_6DojVhip" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_59 left-odds" title="Croatie"></span><span class="name"><span class="country_part">CROATIE: </span><span class="tournament_part">Coupe de Croatie</span></span></span><span class="toggleMyLeague 1_59_fDL2c8tU" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_59_fDL2c8tU" onclick="cjs.myLeagues.toggleTop('1_59_fDL2c8tU', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_UD1fjMN0" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home "><span class="padl">Rudes<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Belupo</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0<br><span class="aet">(0&nbsp;:&nbsp;0)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_hCCMHSoF ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_hCCMHSoF" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_199 left-odds" title="Ecosse"></span><span class="name"><span class="country_part">ECOSSE: </span><span class="tournament_part">Premiership</span></span></span><span class="toggleMyLeague 1_199_tGwiyvJ1" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_199_tGwiyvJ1" onclick="cjs.myLeagues.toggleTop('1_199_tGwiyvJ1', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_jeYCJWdD" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Hamilton</span></td>
+     <td class="cell_ac team-away "><span class="padl">Partick</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.20[u]2.45">2.45</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="3.05[d]2.90">2.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="2.60[d]2.40">2.40</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_SCHerGZD" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Hibernian</span></td>
+     <td class="cell_ac team-away "><span class="padl">Hearts</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="2.25[d]1.95">1.95</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.90[u]3.00">3.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="2.65[u]3.10">3.10</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_0QF3tf4Q" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">St. Johnstone</span></td>
+     <td class="cell_ac team-away "><span class="padl">Ross County</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.75[u]2.15">2.15</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="3.15[d]2.90">2.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="3.60[d]2.80">2.80</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_Kv633bIB ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_Kv633bIB" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_176 left-odds" title="Espagne"></span><span class="name"><span class="country_part">ESPAGNE: </span><span class="tournament_part">Coupe du Roi</span></span></span><span class="toggleMyLeague 1_176_lnb8EJRp" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_176_lnb8EJRp" onclick="cjs.myLeagues.toggleTop('1_176_lnb8EJRp', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_phhmN4ME" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:30</td>
+     <td class="cell_ab team-home "><span class="padl">Cartagena</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">FC Séville</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="7.75[u]11.50">11.50</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="4.50[u]5.75">5.75</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="down" alt="1.22[d]1.18">1.18</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_tn0pahzP" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Numancia</span></td>
+     <td class="cell_ac team-away "><span class="padl">Malaga</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="up" alt="1.95[u]2.40">2.40</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.80[u]2.90">2.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="3.30[d]2.85">2.85</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_hvq2HZkg" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Getafe</span></td>
+     <td class="cell_ac team-away "><span class="padl">Alaves</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="">1.72</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.90[u]3.20">3.20</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="4.10[u]4.60">4.60</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_2e1t0YKI" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Zaragosse</span></td>
+     <td class="cell_ac team-away "><span class="padl">Valence</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="3.90[u]5.25">5.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.00[u]3.90">3.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="1.72[d]1.50">1.50</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_dCkgJeLt" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">21:30</td>
+     <td class="cell_ab team-home "><span class="padl">Cadiz</span></td>
+     <td class="cell_ac team-away "><span class="padl">Betis</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="3.10[u]3.25">3.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.80[u]3.15">3.15</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="">2.05</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_GvFK4d6m" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">21:30</td>
+     <td class="cell_ab team-home "><span class="padl">Murcia</span></td>
+     <td class="cell_ac team-away "><span class="padl">Barcelone</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="12.00[u]14.00">14.00</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="6.00[u]6.50">6.50</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="1.09[u]1.13">1.13</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_ddBup58s ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_ddBup58s" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_6 left-odds" title="Europe"></span><span class="name"><span class="country_part">EUROPE: </span><span class="tournament_part">Euro U17 - 1er Tour</span></span></span><span class="toggleMyLeague 1_6_juCfwNpC" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_6_juCfwNpC" onclick="cjs.myLeagues.toggleTop('1_6_juCfwNpC', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_hfyeHrpR" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Italie -17</span></td>
+     <td class="cell_ac team-away "><span class="padl">Monténégro -17</span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_CIMJTuBq" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:30</td>
+     <td class="cell_ab team-home "><span class="padl">Gibraltar -17</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Norvège -17</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;10</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_6ypiYL2S" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:30</td>
+     <td class="cell_ab team-home "><span class="padl">Grèce -17</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Serbie -17</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_dOuGC2hr" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:00</td>
+     <td class="cell_ab team-home "><span class="padl">Lettonie -17</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Géorgie -17<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_4x9m3pud ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_4x9m3pud" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_6 left-odds" title="Europe"></span><span class="name"><span class="country_part">EUROPE: </span><span class="tournament_part">Euro U19 - Femmes - 1er Tour</span></span></span><span class="toggleMyLeague 1_6_2uKzonBU" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_6_2uKzonBU" onclick="cjs.myLeagues.toggleTop('1_6_2uKzonBU', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_UTyojvBj" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">08:00</td>
+     <td class="cell_ab team-home "><span class="padl">Kazakhstan -19 F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Pays de Galles -19 F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;6</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_GQXtiKep" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">08:00</td>
+     <td class="cell_ab team-home "><span class="padl">Slovénie -19 F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Angleterre -19 F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_xS6ftOrI" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:00</td>
+     <td class="cell_ab team-home "><span class="padl">Arménie -19 F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Hongrie -19 F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;5</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Qi3js4TB" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:00</td>
+     <td class="cell_ab team-home "><span class="padl">Turquie -19 F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Ecosse -19 F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_EmMUoSEt" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Bulgarie -19 F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Biélorussie -19 F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_xSU2j86P" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">République Tchèque -19 F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Suède -19 F</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Qg4fPV7Q" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home "><span class="padl">Irlande -19 F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Pays-Bas -19 F</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;8</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_2FeMKkGs" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Lettonie -19 F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Estonie -19 F</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_pWIikEyn ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_pWIikEyn" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_6 left-odds" title="Europe"></span><span class="name"><span class="country_part">EUROPE: </span><span class="tournament_part">Coupe du Monde - Femmes - Qualification - 2ème Tour</span></span></span><span class="toggleMyLeague 1_6_UyQsXsNl" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_6_UyQsXsNl" onclick="cjs.myLeagues.toggleTop('1_6_UyQsXsNl', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_jiWDDue1" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Italie F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Roumanie F</span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="up" alt="1.06[u]1.08">1.08</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="6.25[d]6.00">6.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="13.00[d]11.00">11.00</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_GAwm9Q3F" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:10</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Allemagne F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Iles Féroé F</span></td>
+     <td class="cell_sa score  bold ">11&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win ">-</td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="8.00[u]10.00">10.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="23.00[d]20.00">20.00</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_fRkTr9YC" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:30</td>
+     <td class="cell_ab team-home "><span class="padl">Slovaquie F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Irlande F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="3.70[d]3.25">3.25</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="2.95[d]2.85">2.85</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="1.75[u]1.90">1.90</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_zNOldJ8T" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home "><span class="padl">Croatie F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Danemark F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;4</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="10.00[u]13.00">13.00</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="5.25[u]6.25">6.25</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="down" alt="1.12[d]1.06">1.06</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_UsVHCaA7" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home "><span class="padl">Portugal F</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Belgique F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="5.25[d]4.00">4.00</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="3.60[d]3.40">3.40</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="1.40[u]1.58">1.58</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_bZSi8pJL" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home "><span class="padl">République Tchèque F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Islande F</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="3.80[d]3.20">3.20</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 win "><span class="down" alt="3.70[d]3.20">3.20</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="1.55[u]1.80">1.80</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_pf1mRq7A" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home "><span class="padl">Russie F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Pays de Galles F</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.35[u]1.62">1.62</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 win "><span class="down" alt="3.75[d]3.15">3.15</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="6.00[d]4.10">4.10</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_dWPpcagN" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:45</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Suède F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Hongrie F</span></td>
+     <td class="cell_sa score  bold ">5&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="">1.01</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="8.75[u]9.00">9.00</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="16.00[u]20.00">20.00</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_C20OqkJ6" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Pays-Bas F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Norvège F</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 win "><span class="down" alt="2.00[d]1.65">1.65</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.90[u]3.20">3.20</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="2.95[u]3.90">3.90</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_KpgbuzSK" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Ecosse F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Albanie F</span></td>
+     <td class="cell_sa score  bold playing ">4&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_6yEML1AT ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_6yEML1AT" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_77 left-odds" title="France"></span><span class="name"><span class="country_part">FRANCE: </span><span class="tournament_part">Coupe de la Ligue</span></span></span><span class="toggleMyLeague 1_77_tSTln2zc" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_77_tSTln2zc" onclick="cjs.myLeagues.toggleTop('1_77_tSTln2zc', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_EJK4vAeC" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:45</td>
+     <td class="cell_ab team-home "><span class="padl">Lorient</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Caen<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="2.45[d]1.90">1.90</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.00[u]3.25">3.25</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="2.75[u]3.75">3.75</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_v1SisCBg" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">21:05</td>
+     <td class="cell_ab team-home "><span class="padl">Guingamp</span></td>
+     <td class="cell_ac team-away "><span class="padl">Montpellier</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="2.20[d]2.10">2.10</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.00[u]3.15">3.15</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="3.10[u]3.30">3.30</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_r7AnMBdc ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_r7AnMBdc" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_83 left-odds" title="Grèce"></span><span class="name"><span class="country_part">GRÈCE: </span><span class="tournament_part">Coupe - 2ème Tour</span></span></span><span class="toggleMyLeague 1_83_lxsVKym6" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_83_lxsVKym6" onclick="cjs.myLeagues.toggleTop('1_83_lxsVKym6', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_tI0j6pXC" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Giannina</span></td>
+     <td class="cell_ac team-away "><span class="padl">Panegialios</span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Y9jE4Xe8" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Kerkyra</span></td>
+     <td class="cell_ac team-away "><span class="padl">Sparti</span></td>
+     <td class="cell_sa score  bold ">6&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_YyiGmuLG" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  canceled ">14:00</td>
+     <td class="cell_ab team-home "><span class="padl">Smyrnis</span></td>
+     <td class="cell_ac team-away "><span class="padl">Iraklis</span></td>
+     <td class="cell_sa score  bold ">-</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_WnTCNo2m" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:15</td>
+     <td class="cell_ab team-home "><span class="padl">Karditsa</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Panathinaikos</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_21WaqW3A" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:15</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Levadiakos</span></td>
+     <td class="cell_ac team-away "><span class="padl">Aiginiakos</span></td>
+     <td class="cell_sa score  bold ">5&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_SCVh1bkG" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Lamia</span></td>
+     <td class="cell_ac team-away "><span class="padl">Kallithea</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_W2XLAdLr ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_W2XLAdLr" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_91 left-odds" title="Hongrie"></span><span class="name"><span class="country_part">HONGRIE: </span><span class="tournament_part">Coupe</span></span></span><span class="toggleMyLeague 1_91_rLyZtJ9P" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_91_rLyZtJ9P" onclick="cjs.myLeagues.toggleTop('1_91_rLyZtJ9P', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_0jLk0pd5" class="tr-first no-service-info stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Balassagyarmat</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">DVTK<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_UVYyCseH" class="even no-service-info stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Cigand SE<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Fuzesgyarmati SK</span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;1<br><span class="aet">(1&nbsp;:&nbsp;1)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_juE2crtO" class=" no-service-info stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Dabas</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Videoton<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;4</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_SrlPqPBO" class="even no-service-info stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Kisvarda<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Ferencvaros</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_WdEZ3Sdt" class=" no-service-info stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Monori</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Debrecen<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Y3JcbOQH" class="even no-service-info stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Tiszaujvaros<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Haladas</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1<br><span class="aet">(1&nbsp;:&nbsp;1)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_Am57gN1K ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_Am57gN1K" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_228 left-odds" title="Indonésie"></span><span class="name"><span class="country_part">INDONÉSIE: </span><span class="tournament_part">Liga 1</span></span></span><span class="toggleMyLeague 1_228_8SwKOBWT" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_228_8SwKOBWT" onclick="cjs.myLeagues.toggleTop('1_228_8SwKOBWT', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_SnnNHCA8" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">10:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">PSM Makassar</span></td>
+     <td class="cell_ac team-away "><span class="padl">Balikpapan</span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_Q16upd6N ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_Q16upd6N" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_97 left-odds" title="Israël"></span><span class="name"><span class="country_part">ISRAËL: </span><span class="tournament_part">Toto Cup - Phase Finale</span></span></span><span class="toggleMyLeague 1_97_IaD8jZpU" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_97_IaD8jZpU" onclick="cjs.myLeagues.toggleTop('1_97_IaD8jZpU', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_6gkuMocG" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:00</td>
+     <td class="cell_ab team-home "><span class="padl">M. Haifa</span></td>
+     <td class="cell_ac team-away "><span class="padl">H. Akko</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;1<br><span class="aet">(1&nbsp;:&nbsp;1)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_pAL3xvan ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_pAL3xvan" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_98 left-odds" title="Italie"></span><span class="name"><span class="country_part">ITALIE: </span><span class="tournament_part">Série B</span></span></span><span class="toggleMyLeague 1_98_6oug4RRc" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_98_6oug4RRc" onclick="cjs.myLeagues.toggleTop('1_98_6oug4RRc', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_U7QWKhV2" class="tr-first stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Ascoli</span></td>
+     <td class="cell_ac team-away "><span class="padl">Spezia</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.35[u]2.50">2.50</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="2.70[d]2.65">2.65</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="2.70[d]2.55">2.55</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_8bPzKCp9" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Avellino</span></td>
+     <td class="cell_ac team-away "><span class="padl">Pro Vercelli</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="1.88[d]1.85">1.85</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.85[u]2.90">2.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="">3.50</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_2cIqIjFL" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Carpi</span></td>
+     <td class="cell_ac team-away "><span class="padl">Palerme</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.40[u]2.65">2.65</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="2.70[d]2.60">2.60</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="2.60[d]2.45">2.45</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_dKHmHAUR" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Cittadella</span></td>
+     <td class="cell_ac team-away "><span class="padl">Venezia</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="2.25[d]1.82">1.82</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.75[u]2.90">2.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="2.80[u]3.60">3.60</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_bT3FCUxq" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Empoli</span></td>
+     <td class="cell_ac team-away "><span class="padl">Pescara</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="1.72[d]1.62">1.62</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.15[u]3.30">3.30</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="3.70[u]4.00">4.00</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_6gRCHvt8" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Entella</span></td>
+     <td class="cell_ac team-away "><span class="padl">Cremonese</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="2.35[d]2.20">2.20</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="2.70[u]2.80">2.80</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="2.70[u]2.80">2.80</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_G4bKBlhk" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Foggia</span></td>
+     <td class="cell_ac team-away "><span class="padl">Parma</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.05[u]2.10">2.10</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">2.90</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="2.95[d]2.85">2.85</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_fecOA87e" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Frosinone</span></td>
+     <td class="cell_ac team-away "><span class="padl">Ternana</span></td>
+     <td class="cell_sa score  bold playing ">2&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="1.55[d]1.40">1.40</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.25[u]3.50">3.50</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="4.70[u]6.00">6.00</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_lIdS9SM1" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Novara</span></td>
+     <td class="cell_ac team-away "><span class="padl">Salernitana</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="2.05[d]2.00">2.00</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">2.80</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="up" alt="3.05[u]3.20">3.20</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+    <tr id="g_1_2L0W8nx8" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Perugia</span></td>
+     <td class="cell_ac team-away "><span class="padl">Cesena</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="down" alt="1.58[d]1.55">1.55</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="up" alt="3.10[u]3.20">3.20</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="4.75[d]4.70">4.70</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_2Lf9345P ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_2Lf9345P" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_103 left-odds" title="Kenya"></span><span class="name"><span class="country_part">KENYA: </span><span class="tournament_part">Premier League</span></span></span><span class="toggleMyLeague 1_103_Y7QCbf53" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_103_Y7QCbf53" onclick="cjs.myLeagues.toggleTop('1_103_Y7QCbf53', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_rJ2XuuEL" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:00</td>
+     <td class="cell_ab team-home "><span class="padl">Chemelil</span></td>
+     <td class="cell_ac team-away "><span class="padl">Sony Sugar<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_xKlGQkd8 ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_xKlGQkd8" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_212 left-odds" title="Kosovo"></span><span class="name"><span class="country_part">KOSOVO: </span><span class="tournament_part">Superliga</span></span></span><span class="toggleMyLeague 1_212_EDEvdFa7" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_212_EDEvdFa7" onclick="cjs.myLeagues.toggleTop('1_212_EDEvdFa7', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_fTEllEzb" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Liria</span></td>
+     <td class="cell_ac team-away "><span class="padl">Vellaznimi</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_x6cnsnSD ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_x6cnsnSD" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_130 left-odds" title="Moldavie"></span><span class="name"><span class="country_part">MOLDAVIE: </span><span class="tournament_part">Coupe de Moldavie</span></span></span><span class="toggleMyLeague 1_130_t2BgeFT0" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_130_t2BgeFT0" onclick="cjs.myLeagues.toggleTop('1_130_t2BgeFT0', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_2oINuJkf" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Dacia Chisinau<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Granicerul</span></td>
+     <td class="cell_sa score  bold ">6&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_WQ9vxykJ" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:30</td>
+     <td class="cell_ab team-home "><span class="padl">Sfintul</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Milsami<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_tlukqhdn" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:30</td>
+     <td class="cell_ab team-home "><span class="padl">Sparta Selemet</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Speranta Nisporeni<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_zaGVwcK6" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:30</td>
+     <td class="cell_ab team-home "><span class="padl">Steaua 57</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Zimbru<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_d8HRvw50" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Zaria Balti<span class="racard racard1">&nbsp;</span><span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Singerei</span></td>
+     <td class="cell_sa score  bold ">6&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_42OxZG08 ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_42OxZG08" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_8 left-odds" title="Monde"></span><span class="name"><span class="country_part">MONDE: </span><span class="tournament_part">Amical International - Femmes</span></span></span><span class="toggleMyLeague 1_8_QTSAtekc" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_8_QTSAtekc" onclick="cjs.myLeagues.toggleTop('1_8_QTSAtekc', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_48TrQKQ7" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:35</td>
+     <td class="cell_ab team-home "><span class="padl">Chine F</span></td>
+     <td class="cell_ac team-away "><span class="padl">Brésil F</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_YTCSJe0A ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_YTCSJe0A" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_145 left-odds" title="Norvège"></span><span class="name"><span class="country_part">NORVÈGE: </span><span class="tournament_part">OBOS-ligaen</span></span></span><span class="toggleMyLeague 1_145_UNGEKMx6" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_145_UNGEKMx6" onclick="cjs.myLeagues.toggleTop('1_145_UNGEKMx6', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_O6m2Dgeb" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home "><span class="padl">Fredrikstad</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Ranheim</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_WKMrL6Os ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_WKMrL6Os" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_194 left-odds" title="Ouganda"></span><span class="name"><span class="country_part">OUGANDA: </span><span class="tournament_part">Premier League</span></span></span><span class="toggleMyLeague 1_194_EFmsCyda" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_194_EFmsCyda" onclick="cjs.myLeagues.toggleTop('1_194_EFmsCyda', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_8jRvO8nN" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:00</td>
+     <td class="cell_ab team-home "><span class="padl">Masavu</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Maroons</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_EFCyPlXG" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Bright Stars</span></td>
+     <td class="cell_ac team-away "><span class="padl">URA SC</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_nsQrNS1T" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:30</td>
+     <td class="cell_ab team-home "><span class="padl">Soana</span></td>
+     <td class="cell_ac team-away "><span class="padl">Mbarara City</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_KffU3WlP ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_KffU3WlP" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_151 left-odds" title="Paraguay"></span><span class="name"><span class="country_part">PARAGUAY: </span><span class="tournament_part">Primera Division - Clôture</span></span></span><span class="toggleMyLeague 1_151_S66R0t75" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_151_S66R0t75" onclick="cjs.myLeagues.toggleTop('1_151_S66R0t75', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_KSJUMniL" class="tr-first stage-scheduled">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">23:00</td>
+     <td class="cell_ab team-home "><span class="padl">Dep. Capiata</span></td>
+     <td class="cell_ac team-away "><span class="padl">Guarani</span></td>
+     <td class="cell_sa score ">-</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_Eindd7Eq ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_Eindd7Eq" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_207 left-odds" title="Pays de Galles"></span><span class="name"><span class="country_part">PAYS DE GALLES: </span><span class="tournament_part">Coupe de la Ligue</span></span></span><span class="toggleMyLeague 1_207_xAcLgIDU" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_207_xAcLgIDU" onclick="cjs.myLeagues.toggleTop('1_207_xAcLgIDU', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_GWAjeLI3" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Airbus</span></td>
+     <td class="cell_ac team-away "><span class="padl">Connah's Q.</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_fN9ffuY9" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Barry</span></td>
+     <td class="cell_ac team-away "><span class="padl">Cardiff Metropolitan</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_OdEbgamG" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Carmarthen</span></td>
+     <td class="cell_ac team-away "><span class="padl">Newtown</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_2mD2hJ2M" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">TNS</span></td>
+     <td class="cell_ac team-away "><span class="padl">Caernarfon</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_U3xRZ3Km ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_U3xRZ3Km" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_139 left-odds" title="Pays-Bas"></span><span class="name"><span class="country_part">PAYS-BAS: </span><span class="tournament_part">KNVB Beker</span></span></span><span class="toggleMyLeague 1_139_4fGZN2oK" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_139_4fGZN2oK" onclick="cjs.myLeagues.toggleTop('1_139_4fGZN2oK', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_bqbomvvp" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Nijmegen<span class="racard racard1">&nbsp;</span><span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Achilles 29<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_rDmjj7fO" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:45</td>
+     <td class="cell_ab team-home "><span class="padl">Den Bosch</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Cambuur<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_8fLC78Pb" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:45</td>
+     <td class="cell_ab team-home  bold "><span class="padl">GVVV<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">HFC</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_2HKG6Sv5" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:45</td>
+     <td class="cell_ab team-home "><span class="padl">Katwijk</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">VVSB<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_8EuxA1oc" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:45</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Sittard<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">G.A. Eagles</span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_M3nfkR9U" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:45</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Waalwijk<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">De Treffers</span></td>
+     <td class="cell_sa score  bold ">7&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_MJzI469H" class="even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">19:45</td>
+     <td class="cell_ab team-home "><span class="padl">Zwolle</span></td>
+     <td class="cell_ac team-away "><span class="padl">Kozakken Boys</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;2<br><span class="aet">(2&nbsp;:&nbsp;2)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_CSR39Ufn" class=" stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:45</td>
+     <td class="cell_ab team-home "><span class="padl">Twente</span></td>
+     <td class="cell_ac team-away "><span class="padl">Eindhoven</span></td>
+     <td class="cell_sa score  bold playing ">3&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_hlh7Y2Dc ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_hlh7Y2Dc" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_152 left-odds" title="Pérou"></span><span class="name"><span class="country_part">PÉROU: </span><span class="tournament_part">Primera División - Clôture</span></span></span><span class="toggleMyLeague 1_152_KrrdAMyI" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_152_KrrdAMyI" onclick="cjs.myLeagues.toggleTop('1_152_KrrdAMyI', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_YeaVqMsI" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:15</td>
+     <td class="cell_ab team-home "><span class="padl">Juan Aurich</span></td>
+     <td class="cell_ac team-away "><span class="padl">U. San Martin</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_SdH3RDRj" class=" stage-scheduled">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">22:30</td>
+     <td class="cell_ab team-home "><span class="padl">Dep. Municipal</span></td>
+     <td class="cell_ac team-away "><span class="padl">Comerciantes Unidos</span></td>
+     <td class="cell_sa score ">-</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_Awp6w2Gj ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_Awp6w2Gj" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_154 left-odds" title="Pologne"></span><span class="name"><span class="country_part">POLOGNE: </span><span class="tournament_part">Coupe</span></span></span><span class="toggleMyLeague 1_154_r5LLTyT3" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_154_r5LLTyT3" onclick="cjs.myLeagues.toggleTop('1_154_r5LLTyT3', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_WjN5ws1c" class="tr-first even stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">20:30</td>
+     <td class="cell_ab team-home "><span class="padl">Chojniczanka</span></td>
+     <td class="cell_ac team-away "><span class="padl">Gornik Z.</span></td>
+     <td class="cell_sa score  bold playing ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_zm48jZZA ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_zm48jZZA" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_155 left-odds" title="Portugal"></span><span class="name"><span class="country_part">PORTUGAL: </span><span class="tournament_part">Coupe de la Ligue</span></span></span><span class="toggleMyLeague 1_155_WdKOwxDM" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_155_WdKOwxDM" onclick="cjs.myLeagues.toggleTop('1_155_WdKOwxDM', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_Y7V7Kl1t" class="tr-first stage-live">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time  time-playing ">21:15</td>
+     <td class="cell_ab team-home "><span class="padl">FC Porto</span></td>
+     <td class="cell_ac team-away "><span class="padl">Leixoes</span></td>
+     <td class="cell_sa score  bold playing ">0&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="1.08[u]1.14">1.14</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="5.75[d]5.25">5.25</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 last "><span class="down" alt="14.00[d]10.00">10.00</span></td>
+     <td class="cell_oq comparison "><span class="icons"><span class="clive icon0"></span></span></td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_UubYY6a3 ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_UubYY6a3" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_62 left-odds" title="République Tchèque"></span><span class="name"><span class="country_part">RÉPUBLIQUE TCHÈQUE: </span><span class="tournament_part">MOL Cup</span></span></span><span class="toggleMyLeague 1_62_bmNStgNk" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_62_bmNStgNk" onclick="cjs.myLeagues.toggleTop('1_62_bmNStgNk', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_IVsEOgCI" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:00</td>
+     <td class="cell_ab team-home "><span class="padl">Sigma Olomouc</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Jablonec<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">3&nbsp;:&nbsp;4</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_Stk1ReSa" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home "><span class="padl">Teplice</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Hradec Kralove<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_bP9lxFv9 ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_bP9lxFv9" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_157 left-odds" title="Roumanie"></span><span class="name"><span class="country_part">ROUMANIE: </span><span class="tournament_part">Coupe de Roumanie</span></span></span><span class="toggleMyLeague 1_157_dUzTIwSF" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_157_dUzTIwSF" onclick="cjs.myLeagues.toggleTop('1_157_dUzTIwSF', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_0xtEGOIQ" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:00</td>
+     <td class="cell_ab team-home "><span class="padl">Arges Pitesti<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Poli Iasi<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_6JdBd3Rf" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:00</td>
+     <td class="cell_ab team-home "><span class="padl">Petrolul</span></td>
+     <td class="cell_ac team-away "><span class="padl">Mioveni<span class="racard racard1">&nbsp;</span><span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2<br><span class="aet">(1&nbsp;:&nbsp;1)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_bDLlAMef" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">U. Cluj<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Miroslava<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_KMMpB2tl" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:30</td>
+     <td class="cell_ab team-home "><span class="padl">Sepsi</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">CS U. Craiova<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_Q5zLq5qs ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_Q5zLq5qs" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_170 left-odds" title="Singapour"></span><span class="name"><span class="country_part">SINGAPOUR: </span><span class="tournament_part">S.League</span></span></span><span class="toggleMyLeague 1_170_CpsbdueR" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_170_CpsbdueR" onclick="cjs.myLeagues.toggleTop('1_170_CpsbdueR', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_IFD6br06" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Young Lions</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Hougang</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_hlUQT8wb ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_hlUQT8wb" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_172 left-odds" title="Slovénie"></span><span class="name"><span class="country_part">SLOVÉNIE: </span><span class="tournament_part">Prva Liga</span></span></span><span class="toggleMyLeague 1_172_dQIMIN5n" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_172_dQIMIN5n" onclick="cjs.myLeagues.toggleTop('1_172_dQIMIN5n', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_MJhjQwK5" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:30</td>
+     <td class="cell_ab team-home "><span class="padl">Krsko<span class="racard racard1">&nbsp;</span></span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Rudar</span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="up" alt="2.35[u]3.00">3.00</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="">2.85</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="down" alt="2.35[d]1.95">1.95</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_rPqlegbp ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_rPqlegbp" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_172 left-odds" title="Slovénie"></span><span class="name"><span class="country_part">SLOVÉNIE: </span><span class="tournament_part">Coupe</span></span></span><span class="toggleMyLeague 1_172_ATMQHsLh" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_172_ATMQHsLh" onclick="cjs.myLeagues.toggleTop('1_172_ATMQHsLh', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_fZeRNVoi" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home "><span class="padl">Mura</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Celje<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_QDQPXCES ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_QDQPXCES" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_181 left-odds" title="Suède"></span><span class="name"><span class="country_part">SUÈDE: </span><span class="tournament_part">Superettan</span></span></span><span class="toggleMyLeague 1_181_bBIP6pm3" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_181_bBIP6pm3" onclick="cjs.myLeagues.toggleTop('1_181_bBIP6pm3', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_jDF23zT8" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Brommapojkarna</span></td>
+     <td class="cell_ac team-away "><span class="padl">Dalkurd</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_pMRWM9vN ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_pMRWM9vN" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_182 left-odds" title="Suisse"></span><span class="name"><span class="country_part">SUISSE: </span><span class="tournament_part">Coupe de Suisse</span></span></span><span class="toggleMyLeague 1_182_EXkXBxHf" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_182_EXkXBxHf" onclick="cjs.myLeagues.toggleTop('1_182_EXkXBxHf', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_UuO1Nl7I" class="tr-first even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">20:00</td>
+     <td class="cell_ab team-home "><span class="padl">Lausanne Ouchy</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Zurich<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;4</td>
+     <td rowspan="1" class="cell_oa kx kx o_1 "><span class="">10.00</span></td>
+     <td rowspan="1" class="cell_ob kx kx o_0 "><span class="down" alt="5.75[d]5.50">5.50</span></td>
+     <td rowspan="1" class="cell_oc kx last kx o_2 win last "><span class="up" alt="1.08[u]1.09">1.09</span></td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_zF4rSiMl ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_zF4rSiMl" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_183 left-odds" title="Syrie"></span><span class="name"><span class="country_part">SYRIE: </span><span class="tournament_part">Premier League</span></span></span><span class="toggleMyLeague 1_183_Uw8jbFwc" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_183_Uw8jbFwc" onclick="cjs.myLeagues.toggleTop('1_183_Uw8jbFwc', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_dpDqKb2q" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Al Jaish</span></td>
+     <td class="cell_ac team-away "><span class="padl">Al Nawaeir</span></td>
+     <td class="cell_sa score  bold ">4&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_hC6hIxXe" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home "><span class="padl">Al Majd</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Al-Ittih.Aleppo</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_W25dHdn2" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">14:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Al Mohafaza</span></td>
+     <td class="cell_ac team-away "><span class="padl">Wathbah</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_v5QHOvfS" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:00</td>
+     <td class="cell_ab team-home "><span class="padl">Hottin</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Tishreen</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;3</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <table class="soccer odds" <colgroup="">
+   <colgroup>
+    <col width="24">
+    <col width="47">
+    <col width="176">
+    <col width="176">
+    <col width="50">
+    <col width="53">
+    <col width="53">
+    <col width="53">
+    <col width="28">
+   </colgroup>
+   <thead>
+    <tr class="league l_1_IJ1LJbpg ">
+     <td colspan="1" class="head_aa ">
+      <div class="dicons">
+       <span class="icons left"><span id="latomyg_1_IJ1LJbpg" class="tomyg"></span></span>
+      </div></td>
+     <td colspan="4" class="head_ab left project-bonus-border "><span class="country left"><span class="flag fl_191 left-odds" title="Turquie"></span><span class="name"><span class="country_part">TURQUIE: </span><span class="tournament_part">Coupe de Turquie</span></span></span><span class="toggleMyLeague 1_191_WbT430Fg" title="Ajouter cette ligue à Mes ligues!" data-label-key="1_191_WbT430Fg" onclick="cjs.myLeagues.toggleTop('1_191_WbT430Fg', event); return false;"></span></td>
+     <td class="head_oa col ">1</td>
+     <td class="head_ob col ">X</td>
+     <td class="head_oc col ">2</td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr id="g_1_dpTN6SU4" class="tr-first stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">12:00</td>
+     <td class="cell_ab team-home "><span class="padl">Sariyer</span></td>
+     <td class="cell_ac team-away "><span class="padl">Adana Demirspor<span class="racard racard1">&nbsp;</span><span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;3<br><span class="aet">(2&nbsp;:&nbsp;2)</span></td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_vTpEHqqN" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">13:30</td>
+     <td class="cell_ab team-home "><span class="padl">Etimesgut</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Antalyaspor<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_l2zlBsMj" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">15:00</td>
+     <td class="cell_ab team-home "><span class="padl">Altinordu</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Karsspor<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">0&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_ELwJ78Fb" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">16:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Kasimpasa<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Nigde Belediyespor</span></td>
+     <td class="cell_sa score  bold ">5&nbsp;:&nbsp;1</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_d4e9IPTG" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">17:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Alanyaspor<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Edirnespor</span></td>
+     <td class="cell_sa score  bold ">2&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_lEt7AAVu" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home "><span class="padl">Fethiyespor</span></td>
+     <td class="cell_ac team-away  bold "><span class="padl">Adanaspor<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;2</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_AmgcLRqb" class=" stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">18:00</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Kahramanmaras<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">Rizespor</span></td>
+     <td class="cell_sa score  bold ">1&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+    <tr id="g_1_r1VZ3QEN" class="even stage-finished">
+     <td class="cell_ib icons left "><span class="icons left"><span class="tomyg icon0"></span></span></td>
+     <td class="cell_ad time ">19:30</td>
+     <td class="cell_ab team-home  bold "><span class="padl">Akhisar Belediye<span class="dw-icon">&nbsp;</span></span></td>
+     <td class="cell_ac team-away "><span class="padl">24 Erzincanspor</span></td>
+     <td class="cell_sa score  bold ">6&nbsp;:&nbsp;0</td>
+     <td rowspan="1" class="cell_oa kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_ob kx kx no-odds ">-</td>
+     <td rowspan="1" class="cell_oc kx last kx no-odds last ">-</td>
+     <td class="cell_oq comparison ">&nbsp;</td>
+    </tr>
+   </tbody>
+  </table>
+  <div class="table-line-bottom"></div>
+  <div class="copyright">
+   <div id="sync-indicator" ondblclick="sync_change()">
+    <span class="push" title="SyncP (p5:443)"></span>
+   </div>&nbsp;
+  </div>
+ </body>
+</html>
