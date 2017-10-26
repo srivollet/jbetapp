@@ -5,3 +5,6 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 24102017,20:45,Hamilton,Partick,0 : 0,2.45,2.90,2.40
 24102017,20:45,Hibernian,Hearts,1 : 0,1.95,3.00,3.10
 24102017,20:45,St. Johnstone,Ross County,0 : 0,2.15,2.90,2.80
+25102017,20:45,Aberdeen,Celtic,0 : 3,4.80,3.40,1.50
+25102017,20:45,Dundee FC,Motherwell,0 : 1,-,-,-
+25102017,20:45,Rangers ,Kilmarnock,1 : 1,1.20,4.50,8.25
