@@ -1,19 +1,27 @@
 package betapp.util;
 
-import static java.nio.charset.StandardCharsets.ISO_8859_1;
-
 import java.io.UnsupportedEncodingException;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 
 import com.google.common.base.Strings;
 
 public class StringUtil {
 
-	public static String getString(String value) {
+	public static String getString(String value, Charset charset) {
 		try {
-			return Strings.isNullOrEmpty(value) ? "" : new String(value.getBytes(), ISO_8859_1.name());
+			return Strings.isNullOrEmpty(value) ? "" : new String(value.getBytes(), charset.name());
 		} catch (UnsupportedEncodingException e) {
 			return "";
 		}
+	}
+
+	public static String getString(String value) {
+		return getString(value, StandardCharsets.ISO_8859_1);
+	}
+
+	public static Float getFloat(String value) {
+		return value == null ? null : Float.valueOf(value);
 	}
 
 }
