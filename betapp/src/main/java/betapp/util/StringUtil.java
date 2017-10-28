@@ -4,6 +4,8 @@ import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
+import org.apache.commons.lang3.math.NumberUtils;
+
 import com.google.common.base.Strings;
 
 public class StringUtil {
@@ -21,7 +23,7 @@ public class StringUtil {
 	}
 
 	public static Float getFloat(String value) {
-		return value == null ? null : Float.valueOf(value);
+		return value == null || !NumberUtils.isNumber(value) ? null : Float.valueOf(value);
 	}
 
 }
