@@ -18,6 +18,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import com.google.common.base.Charsets;
 import com.google.common.base.Strings;
 
 import betapp.exception.BetappException;
@@ -25,6 +26,7 @@ import betapp.model.Competition;
 import betapp.model.Equipe;
 import betapp.model.Match;
 import betapp.util.DateUtil;
+import betapp.util.StringUtil;
 
 public abstract class FlashresultatConnector {
 
@@ -116,12 +118,10 @@ public abstract class FlashresultatConnector {
 		String s = getString(element.getElementsByClass("score").first().text(), StandardCharsets.UTF_8);
 		if (s != null && !s.trim().contains("-")) {
 			String[] scores = s.trim().split(":");
-			// match.setScore1(Integer.valueOf(new
-			// String(scores[0].trim())));
-			// match.setScore2(Integer.valueOf(new
-			// String(scores[1].trim())));
+			match.setScore1(Integer.valueOf(scores[0].substring(0, 1)));
+			match.setScore2(Integer.valueOf(scores[1].substring(1, 2)));
 		}
-
+		
 		match.setCote1(getFloat(element.getElementsByClass("cell_oa").first().text()));
 		match.setCoteN(getFloat(element.getElementsByClass("cell_ob").first().text()));
 		match.setCote2(getFloat(element.getElementsByClass("cell_oc").first().text()));
