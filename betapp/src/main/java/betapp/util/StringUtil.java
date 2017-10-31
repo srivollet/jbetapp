@@ -10,9 +10,14 @@ import com.google.common.base.Strings;
 
 public class StringUtil {
 
+	private StringUtil() {
+
+	}
+
 	public static String getString(String value, Charset charset) {
 		try {
-			return Strings.isNullOrEmpty(value) ? "" : new String(value.getBytes(), charset.name());
+			return Strings.isNullOrEmpty(value) ? "" : new String(
+					value.getBytes(), charset.name());
 		} catch (UnsupportedEncodingException e) {
 			return "";
 		}
@@ -23,7 +28,8 @@ public class StringUtil {
 	}
 
 	public static Float getFloat(String value) {
-		return value == null || !NumberUtils.isNumber(value) ? null : Float.valueOf(value);
+		return value == null || !NumberUtils.isNumber(value) ? null : Float
+				.valueOf(value);
 	}
 
 }
