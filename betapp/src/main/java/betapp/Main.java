@@ -26,9 +26,11 @@ public class Main {
 
 		driver.get("http://www.flashresultats.fr/");
 
-		driver.findElement(By.className("yesterday")).click();
+		for (int i = 0; i < 1; i++) {
+			driver.findElement(By.className("yesterday")).click();
 
-		Thread.sleep(3000);
+			Thread.sleep(3000);
+		}
 
 		driver.findElement(By.cssSelector(".ifmenu-odds.li4")).click();
 
