@@ -7,6 +7,8 @@ import org.apache.commons.lang3.time.DateUtils;
 
 public class DateUtil {
 
+	public final static String DDMMYYYY = "ddMMyyyy";
+
 	public static String getYesterday() {
 		Date now = new Date();
 		Date yesterday = DateUtils.addDays(now, -1);

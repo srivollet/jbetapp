@@ -1,11 +1,15 @@
 package betapp;
 
+import static betapp.util.DateUtil.DDMMYYYY;
 import static betapp.util.StringUtil.getString;
 import static java.nio.charset.StandardCharsets.ISO_8859_1;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Date;
 
+import org.apache.commons.lang3.time.DateFormatUtils;
+import org.apache.commons.lang3.time.DateUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -17,17 +21,17 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.google.common.io.Files;
 
-import betapp.util.DateUtil;
-
 public class Main {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
+		Date date = new Date();
 		WebDriver driver = new ChromeDriver();
 
 		driver.get("http://www.flashresultats.fr/");
 
-		for (int i = 0; i < 1; i++) {
+		for (int i = 0; i < Integer.valueOf(args[0]); i++) {
 			driver.findElement(By.className("yesterday")).click();
+			date = DateUtils.addDays(date, -1);
 
 			Thread.sleep(3000);
 		}
@@ -69,8 +73,8 @@ public class Main {
 				String coteN = getString(match.getElementsByClass("cell_ob").first().text());
 				String cote2 = getString(match.getElementsByClass("cell_oc").first().text());
 
-				Files.append(String.format("%s,%s,%s,%s,%s,%s,%s,%s", DateUtil.getYesterday(), heure, domicile,
-						visiteur, score, cote1, coteN, cote2), file, ISO_8859_1);
+				Files.append(String.format("%s,%s,%s,%s,%s,%s,%s,%s", DateFormatUtils.format(date, DDMMYYYY), heure,
+						domicile, visiteur, score, cote1, coteN, cote2), file, ISO_8859_1);
 				Files.append("\n", file, ISO_8859_1);
 			}
 		}
