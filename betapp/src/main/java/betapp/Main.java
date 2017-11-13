@@ -30,7 +30,8 @@ public class Main {
 		driver.get("http://www.flashresultats.fr/");
 
 		for (int i = 0; i < Integer.valueOf(args[0]); i++) {
-			driver.findElement(By.className("yesterday")).click();
+			WebElement webElement = driver.findElement(By.className("yesterday"));
+			webElement.click();
 			date = DateUtils.addDays(date, -1);
 
 			Thread.sleep(3000);
