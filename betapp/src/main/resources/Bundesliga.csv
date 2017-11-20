@@ -26,3 +26,20 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 05112017,15:30,FC Koln,Hoffenheim,0 : 3,2.50,3.30,2.50
 05112017,18:00,Wolfsburg,Hertha,3 : 3,1.95,3.15,3.80
 03112017,20:30,Frankfurt,Bremen,2 : 1,1.72,3.50,4.30
+17112017,20:30,Stuttgart,Dortmund,2 : 1,4.00,3.60,1.72
+18112017,15:30,Bayern,Augsburg,3 : 0,1.16,6.25,11.50
+18112017,15:30,Hoffenheim,Frankfurt,1 : 1,2.20,3.20,2.90
+18112017,15:30,Leverkusen ,RB Leipzig,2 : 2,2.25,3.40,2.70
+18112017,15:30,Mainz ,FC Koln,1 : 0,1.85,3.30,3.80
+18112017,15:30,Wolfsburg,Freiburg,3 : 1,1.58,3.70,4.90
+18112017,18:30,Hertha,Monchengladbach,2 : 4,2.80,3.20,2.25
+19112017,15:30,Schalke 04,Hamburger SV,2 : 0,1.65,3.30,4.90
+19112017,18:00,Bremen,Hannover,4 : 0,2.10,3.30,3.00
+25112017,15:30,Hamburger SV,Hoffenheim,3 : 0,2.40,3.15,2.65
+25112017,18:00,FC Koln,Hertha,0 : 0,2.90,3.05,2.30
+24112017,15:30,Augsburg,Wolfsburg,2 : 1,2.05,3.15,3.30
+24112017,15:30,Dortmund,Schalke 04,4 : 4,1.58,3.90,4.50
+24112017,15:30,Frankfurt,Leverkusen,0 : 1,2.35,3.30,2.60
+24112017,15:30,Freiburg,Mainz,2 : 1,2.05,3.15,3.25
+24112017,15:30,RB Leipzig,Bremen,2 : 0,1.42,4.40,5.75
+24112017,18:30,Monchengladbach,Bayern,2 : 1,4.60,3.90,1.58

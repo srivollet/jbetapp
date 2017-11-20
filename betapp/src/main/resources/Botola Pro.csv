@@ -58,3 +58,34 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 11112017,18:00,Safi,FAR Rabat,-,-,-,-
 11112017,18:00,Wydad,Raja Casablanca,-,-,-,-
 15112017,18:00,FAR Rabat,Wydad,0 : 0,3.00,2.55,2.20
+17112017,16:00,Moghreb Tetouan,Chabab Rif Hoceima,0 : 2,1.82,2.75,3.75
+17112017,18:00,Difaa El Jadidi,Berkane,-,-,-,-
+17112017,18:00,Safi,Tanger,1 : 0,2.20,2.60,2.95
+18112017,18:00,Agadir,FUS Rabat,-,-,-,-
+18112017,18:00,FAR Rabat,Berkane,-,-,-,-
+18112017,18:00,Khouribga,Moghreb Tetouan,-,-,-,-
+18112017,18:00,Marrakech,Wydad,-,-,-,-
+18112017,18:00,RAC Casablanca,Chabab Rif Hoceima,-,-,-,-
+18112017,18:00,Raja Casablanca,Difaa El Jadidi,-,-,-,-
+18112017,18:00,Safi,Chabab Atlas Khenifra,-,-,-,-
+18112017,18:00,Tanger,Rapide Oued Zem,-,-,-,-
+19112017,16:00,Chabab Atlas Khenifra,Marrakech,0 : 0,2.00,2.65,3.30
+19112017,16:00,Rapide Oued Zem,Khouribga,1 : 0,2.30,2.65,2.75
+19112017,18:00,Agadir,FAR Rabat,2 : 2,2.20,2.70,2.80
+19112017,20:00,Wydad,RAC Casablanca,0 : 0,1.35,3.40,6.75
+22112017,18:00,Wydad,Difaa El Jadidi,2 : 1,2.55,2.45,2.65
+23112017,18:00,FUS Rabat,Raja Casablanca,0 : 0,2.50,2.60,2.55
+25112017,16:00,FAR Rabat,Chabab Rif Hoceima,2 : 2,1.55,3.05,4.90
+25112017,16:00,Khouribga,Wydad,0 : 5,3.05,2.65,2.10
+25112017,16:00,RAC Casablanca,Difaa El Jadidi,0 : 3,3.40,2.70,1.95
+25112017,18:00,Marrakech,FUS Rabat,0 : 0,3.20,2.60,2.05
+24112017,16:00,Berkane,Moghreb Tetouan,1 : 2,2.15,2.60,3.00
+24112017,16:00,Tanger,Chabab Atlas Khenifra,1 : 0,1.80,2.70,3.90
+24112017,17:00,Berkane,RAC Casablanca,-,-,-,-
+24112017,17:00,Chabab Atlas Khenifra,FAR Rabat,-,-,-,-
+24112017,17:00,Chabab Rif Hoceima,Khouribga,-,-,-,-
+24112017,17:00,Difaa El Jadidi,Marrakech,-,-,-,-
+24112017,17:00,FUS Rabat,Safi,-,-,-,-
+24112017,17:00,Moghreb Tetouan,Raja Casablanca,-,-,-,-
+24112017,17:00,Rapide Oued Zem,Agadir,-,-,-,-
+24112017,17:00,Wydad,Tanger,-,-,-,-

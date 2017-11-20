@@ -29,3 +29,18 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 03112017,18:30,Sandhausen,Duisburg,0 : 1,2.15,2.85,2.80
 06112017,20:30,Nurnberg,Ingolstadt,1 : 2,2.65,3.05,2.15
 06112017,20:30,Nurnberg,Ingolstadt,1 : 2,2.65,3.05,2.15
+17112017,18:30,Bielefeld,Braunschweig,2 : 2,2.30,2.95,2.50
+17112017,18:30,Darmstadt,Sandhausen,1 : 2,2.40,2.75,2.55
+18112017,13:00,Bochum,Furth,1 : 1,1.80,3.10,3.40
+18112017,13:00,Heidenheim,Union Berlin,4 : 3,2.75,3.05,2.10
+18112017,13:00,Nurnberg,Kiel,2 : 2,2.90,3.20,1.95
+19112017,13:30,Duisburg,Aue,3 : 0,1.95,2.95,3.10
+19112017,13:30,Ingolstadt,Dusseldorf,1 : 0,1.60,3.25,4.25
+19112017,13:30,St. Pauli,Regensburg,2 : 2,1.75,3.10,3.60
+20112017,20:30,Dresden,Kaiserslautern,1 : 2,1.80,2.95,3.60
+25112017,13:30,Aue,Bochum,1 : 1,2.50,2.75,2.45
+25112017,13:30,Furth,St. Pauli ,4 : 0,2.55,2.80,2.40
+25112017,13:30,Kaiserslautern,Bielefeld,0 : 2,2.30,2.85,2.60
+24112017,13:00,Braunschweig,Nurnberg,2 : 3,2.20,3.00,2.60
+24112017,13:00,Kiel,Ingolstadt,0 : 0,2.00,3.10,2.85
+24112017,13:00,Regensburg,Duisburg,4 : 0,2.30,3.00,2.50

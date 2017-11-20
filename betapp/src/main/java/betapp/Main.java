@@ -18,6 +18,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.common.io.Files;
 
@@ -26,60 +28,58 @@ public class Main {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		Date date = new Date();
 		WebDriver driver = new ChromeDriver();
+		WebDriverWait driverWait = new WebDriverWait(driver, 60);
 
 		driver.get("http://www.flashresultats.fr/");
 
+		driverWait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".ifmenu-odds.li4"))).click();
+
 		for (int i = 0; i < Integer.valueOf(args[0]); i++) {
-			WebElement webElement = driver.findElement(By.className("yesterday"));
-			webElement.click();
+
+			Thread.sleep(5000);
+
+			WebElement yesterday = driverWait
+					.until(ExpectedConditions.visibilityOfElementLocated(By.className("yesterday")));
+			yesterday.click();
+
 			date = DateUtils.addDays(date, -1);
+			WebElement resultats = driverWait
+					.until(ExpectedConditions.visibilityOfElementLocated(By.className("odds-content")));
 
-			Thread.sleep(3000);
-		}
+			Document soup = Jsoup.parse(resultats.getAttribute("innerHTML"));
 
-		driver.findElement(By.cssSelector(".ifmenu-odds.li4")).click();
+			Elements soccers = soup.getElementsByClass("soccer odds");
 
-		Thread.sleep(3000);
+			for (Element soccer : soccers) {
 
-		WebElement resultats = driver.findElement(By.className("odds-content"));
+				Element competition = soccer.getElementsByClass("tournament_part").first();
 
-		// File input = new File("src/test/resources/flashresultats.txt");
-		// Document soup = Jsoup.parse(input, "UTF-8", "http://example.com/");
+				File file = new File(String.format("src/main/resources/%s.csv", competition.text()));
+				boolean exists = file.exists();
 
-		Document soup = Jsoup.parse(resultats.getAttribute("innerHTML"));
+				if (!exists) {
+					// On met dans le fichier la première l'entête des colonnes
+					Files.append("date,horaire,team_home,team_away,score,cote1,coteN,cote2", file, ISO_8859_1);
+					Files.append("\n", file, ISO_8859_1);
+				}
 
-		Elements soccers = soup.getElementsByClass("soccer odds");
+				Elements matchs = soccer.getElementsByTag("tbody").first().getElementsByTag("tr");
+				for (Element match : matchs) {
 
-		for (Element soccer : soccers) {
+					String heure = getString(match.getElementsByClass("cell_ad").first().text());
+					String domicile = getString(match.getElementsByClass("team-home").first().text());
+					String visiteur = getString(match.getElementsByClass("team-away").first().text());
+					String score = getString(match.getElementsByClass("score").first().text());
+					String cote1 = getString(match.getElementsByClass("cell_oa").first().text());
+					String coteN = getString(match.getElementsByClass("cell_ob").first().text());
+					String cote2 = getString(match.getElementsByClass("cell_oc").first().text());
 
-			Element competition = soccer.getElementsByClass("tournament_part").first();
-
-			File file = new File(String.format("src/main/resources/%s.csv", competition.text()));
-			boolean exists = file.exists();
-
-			if (!exists) {
-				// On met dans le fichier la première l'entête des colonnes
-				Files.append("date,horaire,team_home,team_away,score,cote1,coteN,cote2", file, ISO_8859_1);
-				Files.append("\n", file, ISO_8859_1);
-			}
-
-			Elements matchs = soccer.getElementsByTag("tbody").first().getElementsByTag("tr");
-			for (Element match : matchs) {
-
-				String heure = getString(match.getElementsByClass("cell_ad").first().text());
-				String domicile = getString(match.getElementsByClass("team-home").first().text());
-				String visiteur = getString(match.getElementsByClass("team-away").first().text());
-				String score = getString(match.getElementsByClass("score").first().text());
-				String cote1 = getString(match.getElementsByClass("cell_oa").first().text());
-				String coteN = getString(match.getElementsByClass("cell_ob").first().text());
-				String cote2 = getString(match.getElementsByClass("cell_oc").first().text());
-
-				Files.append(String.format("%s,%s,%s,%s,%s,%s,%s,%s", DateFormatUtils.format(date, DDMMYYYY), heure,
-						domicile, visiteur, score, cote1, coteN, cote2), file, ISO_8859_1);
-				Files.append("\n", file, ISO_8859_1);
+					Files.append(String.format("%s,%s,%s,%s,%s,%s,%s,%s", DateFormatUtils.format(date, DDMMYYYY), heure,
+							domicile, visiteur, score, cote1, coteN, cote2), file, ISO_8859_1);
+					Files.append("\n", file, ISO_8859_1);
+				}
 			}
 		}
-
 		driver.quit();
 	}
 
