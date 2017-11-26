@@ -18,6 +18,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -28,11 +29,7 @@ public class Main {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		Date date = new Date();
 
-		if (args.length > 2) {
-			System.setProperty("webdriver.chrome.driver", args[2]);
-		}
-
-		WebDriver driver = new ChromeDriver();
+		WebDriver driver = getWebDriver(args);
 
 		WebDriverWait driverWait = new WebDriverWait(driver, 60);
 
@@ -87,6 +84,20 @@ public class Main {
 			}
 		}
 		driver.quit();
+	}
+
+	private static WebDriver getWebDriver(String[] args) {
+		WebDriver driver = null;
+		if (args.length > 2) {
+			String browser = args[2];
+			switch (browser) {
+			case "firefox":
+				return new FirefoxDriver();
+			default:
+				break;
+			}
+		}
+		return driver == null ? new ChromeDriver() : driver;
 	}
 
 }
