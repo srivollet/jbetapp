@@ -92,6 +92,9 @@ public class Main {
 			String browser = args[2];
 			switch (browser) {
 			case "firefox":
+				if (args.length > 3)
+					System.setProperty("webdriver.gecko.driver", args[3]);
+
 				return new FirefoxDriver();
 			default:
 				break;
