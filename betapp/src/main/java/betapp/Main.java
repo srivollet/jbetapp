@@ -27,7 +27,13 @@ public class Main {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
 		Date date = new Date();
+
+		if (args.length > 2) {
+			System.setProperty("webdriver.chrome.driver", args[2]);
+		}
+
 		WebDriver driver = new ChromeDriver();
+
 		WebDriverWait driverWait = new WebDriverWait(driver, 60);
 
 		driver.get("http://www.flashresultats.fr/");
