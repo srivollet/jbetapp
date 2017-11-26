@@ -54,7 +54,7 @@ public class Main {
 
 				Element competition = soccer.getElementsByClass("tournament_part").first();
 
-				File file = new File(String.format("src/main/resources/%s.csv", competition.text()));
+				File file = new File(String.format(args[1] + "/%s.csv", competition.text()));
 				boolean exists = file.exists();
 
 				if (!exists) {
