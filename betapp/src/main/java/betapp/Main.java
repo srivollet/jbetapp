@@ -18,6 +18,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -96,6 +97,12 @@ public class Main {
 					System.setProperty("webdriver.gecko.driver", args[3]);
 
 				return new FirefoxDriver();
+			case "chrome":
+				ChromeOptions o = new ChromeOptions();
+				if (args.length > 3) {
+					o.setBinary(args[3]);
+				}
+				return new ChromeDriver(o);
 			default:
 				break;
 			}
