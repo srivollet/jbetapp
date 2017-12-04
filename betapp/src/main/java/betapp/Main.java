@@ -19,7 +19,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -89,25 +88,23 @@ public class Main {
 
 	private static WebDriver getWebDriver(String[] args) {
 		WebDriver driver = null;
-		if (args.length > 2) {
-			String browser = args[2];
-			switch (browser) {
-			case "firefox":
-				if (args.length > 3)
-					System.setProperty("webdriver.gecko.driver", args[3]);
 
-				return new FirefoxDriver();
-			case "chrome":
-				ChromeOptions o = new ChromeOptions();
-				if (args.length > 3) {
-					o.setBinary(args[3]);
-				}
-				return new ChromeDriver(o);
-			default:
-				break;
+		String browser = args[2];
+		String browserPath = args[3];
+		String driverPath = args.length == 5 ? args[4] : null;
+
+		switch (browser) {
+		case "chrome":
+			ChromeOptions o = new ChromeOptions();
+			o.setBinary(browserPath);
+			if (driverPath != null) {
+				System.setProperty("webdriver.chrome.driver", driverPath);
 			}
+			driver = new ChromeDriver(o);
+		default:
+			break;
 		}
-		return driver == null ? new ChromeDriver() : driver;
+		return driver;
 	}
 
 }
