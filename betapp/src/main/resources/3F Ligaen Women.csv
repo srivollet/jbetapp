@@ -7,3 +7,6 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 01122017,12:30,BSF F,Odense Q F,2 : 0,-,-,-
 01122017,13:00,Koldingq FC F,Brondby F,1 : 1,-,-,-
 01122017,14:00,Fortuna Hjorring F,VSK Aarhus F,5 : 0,-,-,-
+08122017,13:00,Brondby F,Vejle F,5 : 0,1.01,26.00,34.00
+08122017,13:00,Varde F,Koldingq FC F,1 : 4,34.00,26.00,1.01
+08122017,13:00,VSK Aarhus F,BSF F,0 : 2,1.85,4.20,3.00
