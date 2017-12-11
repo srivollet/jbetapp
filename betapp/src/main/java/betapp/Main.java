@@ -19,10 +19,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.common.io.Files;
+
+import net.sourceforge.htmlunit.corejs.javascript.ast.SwitchCase;
 
 public class Main {
 
@@ -101,6 +106,20 @@ public class Main {
 				System.setProperty("webdriver.chrome.driver", driverPath);
 			}
 			driver = new ChromeDriver(o);
+			break;
+		case "firefox":
+			DesiredCapabilities capabilities = DesiredCapabilities.firefox();
+			FirefoxOptions options = new FirefoxOptions();
+			options.addPreference("log", "{level: trace}");		
+			capabilities.setCapability("marionette", true);
+			capabilities.setCapability("moz:firefoxOptions", options);
+			
+			FirefoxOptions fo = new FirefoxOptions();
+			fo.setBinary(browserPath);
+			if (driverPath != null) {
+				System.setProperty("webdriver.gecko.driver", driverPath);
+			}
+			driver = new FirefoxDriver(capabilities);
 		default:
 			break;
 		}
