@@ -1,3 +1,5 @@
 date,horaire,team_home,team_away,score,cote1,coteN,cote2
 08122017,08:30,Corée du Sud,Chine,2 : 2,1.57,3.60,6.50
 08122017,11:15,Japon,Corée du Nord,1 : 0,1.33,5.00,9.00
+11122017,08:30,Corée du Nord,Corée du Sud,0 : 1,-,-,-
+11122017,11:15,Japon,Chine,2 : 1,-,-,-
