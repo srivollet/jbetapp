@@ -805,3 +805,78 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 11122017,20:45,Burnley,Stoke,-,2.15,2.95,3.25
 11122017,21:00,Crystal Palace,Watford,-,2.20,3.30,3.00
 11122017,21:00,Huddersfield,Chelsea,-,7.50,4.10,1.40
+22122017,13:30,Everton,Chelsea,-,5.10,3.65,1.60
+22122017,16:00,Brighton,Watford,-,2.50,3.05,2.75
+22122017,16:00,Manchester City,Bournemouth,-,1.10,8.25,18.50
+22122017,16:00,Southampton,Huddersfield,-,1.58,3.55,5.75
+22122017,16:00,Stoke,West Brom,-,2.25,3.05,3.20
+22122017,16:00,Swansea,Crystal Palace,-,3.10,2.95,2.35
+22122017,16:00,West Ham,Newcastle,-,2.05,3.15,3.55
+22122017,18:30,Burnley,Tottenham,-,5.75,3.85,1.50
+22122017,20:45,Leicester,Manchester Utd,-,4.00,3.40,1.78
+22122017,17:45,Al-Fateh,Al Ahli SC,-,-,-,-
+22122017,13:45,El Raja,Al Nasr,-,-,-,-
+22122017,13:45,Tanta,El Daklyeh,-,-,-,-
+22122017,16:00,Misr Elmaqasah,Ismaily,-,-,-,-
+22122017,14:00,Jinja,Villa,-,-,-,-
+22122017,14:00,Kampala City,Express FC,-,-,-,-
+22122017,14:00,Vipers,Proline,-,-,-,-
+22122017,15:30,Barry,Prestatyn,-,1.75,3.30,3.30
+22122017,15:30,Carmarthen,Bangor City,-,5.75,4.00,1.32
+22122017,13:00,Al-Jehad,Wathbah,-,-,-,-
+21122017,20:45,Arsenal,Liverpool,3 : 3,2.45,3.40,2.55
+21122017,13:40,Ohod,Al Batin,1 : 1,-,-,-
+21122017,18:30,Al-Ettifaq,Al Nasr Riyadh,3 : 2,-,-,-
+21122017,16:00,Enppi,El Masry,2 : 1,-,-,-
+21122017,14:00,URA SC,Onduparaka FC,0 : 1,-,-,-
+21122017,14:30,Maroons,BUL,1 : 0,-,-,-
+21122017,14:30,Mbarara City,Masavu,1 : 0,-,-,-
+21122017,14:30,Soana,Police,2 : 1,-,-,-
+21122017,14:30,UPDF,Bright Stars,2 : 1,-,-,-
+21122017,20:45,Bala Town,Druids,2 : 1,1.65,3.25,3.75
+21122017,20:45,Connah's Q.,Newtown,4 : 0,1.52,3.30,4.50
+21122017,20:45,TNS,Aberystwyth,4 : 0,1.06,7.00,11.00
+21122017,13:00,Al Jaish,Al Majd,1 : 0,-,-,-
+21122017,13:00,Al Karamah,Herafio Halab,1 : 2,-,-,-
+21122017,13:00,Al Nawaeir,Al Taliya,0 : 1,-,-,-
+21122017,13:00,Al Wahda,Al Shorta,3 : 0,-,-,-
+21122017,13:00,Al-Ittih.Aleppo,Tishreen,1 : 0,-,-,-
+21122017,13:00,Hottin,Al Mohafaza,3 : 1,-,-,-
+20122017,15:55,Al-Faysaly,Al-Raed,2 : 2,-,-,-
+20122017,17:45,Al Qadisiya,Al Shabab,1 : 2,-,-,-
+20122017,11:30,Mohammedan,Sheikh Russel,0 : 0,-,-,-
+20122017,13:45,Saif Sporting Club,BJMC,2 : 0,-,-,-
+19122017,11:30,Farashganj,Rahmatgonj MFS,3 : 0,-,-,-
+19122017,13:45,Brothers U.,Sheikh Jamal,2 : 3,-,-,-
+19122017,13:45,Alassiouty,Wadi Degla,0 : 2,-,-,-
+19122017,16:00,Al Ittihad,Zamalek,0 : 2,-,-,-
+19122017,19:00,Al Ahly,Smouha,2 : 1,-,-,-
+19122017,14:00,Express FC,Vipers,1 : 2,-,-,-
+19122017,14:30,Kampala City,Jinja,2 : 1,-,-,-
+19122017,14:30,Villa,Proline,2 : 1,-,-,-
+19122017,20:45,Llandudno,Cardiff Metropolitan,0 : 0,2.30,2.90,2.50
+18122017,11:30,Arambagh,Abahani Limited,0 : 1,-,-,-
+18122017,13:45,Abahani Chittagong,Muktijoddha Sangsad ,0 : 2,-,-,-
+18122017,13:45,El Raja,Misr Elmaqasah,1 : 1,-,-,-
+18122017,16:00,El Entag El Harby,Tanta,1 : 0,-,-,-
+18122017,16:00,Ismaily,El Gaish,1 : 1,-,-,-
+18122017,18:30,Arab Contractors,Petrojet,2 : 0,-,-,-
+18122017,14:30,Bright Stars,Police,0 : 0,-,-,-
+18122017,14:30,BUL,Soana,2 : 0,-,-,-
+18122017,14:30,Maroons,UPDF,1 : 1,-,-,-
+18122017,14:30,Masavu,Onduparaka FC,2 : 1,-,-,-
+18122017,14:30,URA SC,Mbarara City,1 : 1,-,-,-
+18122017,20:45,Prestatyn,Druids,1 : 2,3.10,3.10,1.88
+18122017,20:45,TNS,Connah's Q.,3 : 0,1.27,4.10,7.00
+18122017,13:00,Al Mohafaza,Al-Jehad,2 : 2,-,-,-
+17122017,21:00,Everton,Swansea,3 : 1,1.70,3.20,4.80
+17122017,16:00,Al Nasr ,El Masry,2 : 3,-,-,-
+17122017,18:30,El Daklyeh,Enppi,1 : 2,-,-,-
+17122017,19:00,Gzira,Lija Athletic,3 : 2,1.06,7.00,14.00
+16122017,15:15,West Brom,Manchester Utd,1 : 2,5.50,3.40,1.58
+16122017,17:30,Bournemouth,Liverpool,0 : 4,6.25,4.30,1.40
+16122017,17:40,Al Feiha,Al-Hilal,2 : 1,-,-,-
+16122017,11:30,Sheikh Russel,Farashganj,2 : 0,-,-,-
+16122017,13:45,BJMC,Mohammedan,1 : 1,-,-,-
+16122017,14:00,St. Andrews,Hibernians ,2 : 1,8.25,4.40,1.20
+16122017,16:00,Floriana,Birkirkara,0 : 2,1.78,3.15,3.30
