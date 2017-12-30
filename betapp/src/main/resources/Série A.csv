@@ -99,3 +99,13 @@ date,horaire,team_home,team_away,score,cote1,coteN,cote2
 16122017,15:00,Sampdoria,Sassuolo,0 : 1,1.82,3.50,3.60
 16122017,18:00,Benevento,Spal,1 : 2,2.55,3.00,2.60
 16122017,20:45,Atalanta,Lazio,3 : 3,2.10,3.15,3.15
+29122017,12:30,Fiorentina,AC Milan,1 : 1,2.25,3.05,2.95
+29122017,15:00,AS Rome,Sassuolo,1 : 1,1.22,5.50,9.50
+29122017,15:00,Atalanta,Cagliari ,1 : 2,1.38,4.10,7.00
+29122017,15:00,Benevento,Chievo,1 : 0,2.75,3.10,2.35
+29122017,15:00,Bologne,Udinese,1 : 2,2.30,2.95,2.95
+29122017,15:00,Sampdoria,Spal,2 : 0,1.75,3.40,4.10
+29122017,15:00,Torino,Genoa,0 : 0,2.30,2.95,3.00
+29122017,18:00,Inter,Lazio,0 : 0,2.20,3.25,2.90
+29122017,20:45,Hellas Vérone,Juventus,0 : 1,13.00,5.50,1.17
+28122017,20:45,Crotone,Naples,0 : 1,14.00,6.00,1.16
